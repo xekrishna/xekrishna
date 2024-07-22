@@ -1,4 +1,4 @@
-### ✨ About Me
+## ✨ About Me:
 
 - 🔭 I’m currently working on [Xernia](https://xernia.vercel.app)
 
