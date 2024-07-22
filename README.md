@@ -1,16 +1,13 @@
-## Hi there 👋
+## ✨ About Me
+- 🔭 I’m currently working on
+- Xernia - A Clothing Store
+  
+- 🌱 I’m currently learning
+-MERN & MEAN Stack Web Development
 
-<!--
-**xekrishna/xekrishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👯 I’m looking to collaborate on
+- Fullstack Projects
 
-Here are some ideas to get you started:
+- ⚡ Fun fact:
+- Enjoying Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
