@@ -1,6 +1,6 @@
 ## ✨ About Me:
 
-- 🔭 I’m currently working on [Xernia](https://xernia.vercel.app)
+- 🔭 I’m currently working on <br>[Xernia](https://xernia.vercel.app)</br>
 
 - 🌱 I’m currently learning **MERN & NextJs**
 
