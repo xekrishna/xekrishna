@@ -2,11 +2,11 @@
 
 - 🔭 I’m currently working on <br>[Xernia](https://xernia.vercel.app)</br>
 
-- 🌱 I’m currently learning **MERN & NextJs**
+- 🌱 I’m currently learning <br>**MERN, NextJs, ThreeJs**</br>
 
-- 👯 I’m looking to collaborate on **Fullstack Projects**
+- 👯 I’m looking to collaborate on <br>**Fullstack Projects**</br>
 
-- ⚡ Fun fact **Enjoying Programming**
+- ⚡ Fun fact <br>**Enjoying Programming**</br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
